@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I am funny😂**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 <a href="https://twitter.com/jitu__jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jitu__jk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jitesh-kumar-183a4a19b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jitesh-kumar-183a4a19b" height="30" width="40" /></a>
 <a href="https://fb.com/lovlyjitesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lovlyjitesh" height="30" width="40" /></a>
